@@ -1,13 +1,14 @@
 ---
-title: Writing a New Post
-author: cotes
-date: 2019-08-08 14:10:00 +0800
+title: Sorting techniques in Python
+author: hungtu
+date: 2024-06-15 17:00:00 +0200
 categories: [Blogging, Tutorial]
-tags: [writing]
+tags: [Python]
 render_with_liquid: false
+published: false
 ---
 
-This tutorial will guide you how to write a post in the _Chirpy_ template, and it's worth reading even if you've used Jekyll before, as many features require specific variables to be set.
+This tutorial summarises and develops some interesting points from this article [Sorting Techniques](https://docs.python.org/3/howto/sorting.html).
 
 ## Naming and Path
 
